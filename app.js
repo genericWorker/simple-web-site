@@ -1,6 +1,6 @@
 'use strict'
 const switcher = document.querySelector('.btn');
-
+// Another comment
 switcher.addEventListener('click', function() {
     document.body.classList.toggle('dark-theme');
    
